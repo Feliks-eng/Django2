@@ -9,5 +9,6 @@ SQLite
 
 Клонируйте репозиторий:
 
+```bash
 git clone https://github.com/Feliks-eng/Django2.git
 cd Django2
